@@ -21,8 +21,7 @@ mukundmitra@iisc.ac.in (Mukund Mitra)
 ## Citation
 If you use this code or build upon this work, please cite:
 
-[1] Mukund Mitra, Gyanig Kumar, Partha Pratim Chakrabarti, and Pradipta Biswas. 2025. Investigating Inverse Reinforcement Learning during Rapid Aiming Movement in Extended Reality and Human-Robot Interaction. J. Hum.-Robot Interact. Just Accepted (May 2025).
-https://doi.org/10.1145/3736423
+[1] Mukund Mitra, Gyanig Kumar, Partha Pratim Chakrabarti, and Pradipta Biswas. 2025. Investigating Inverse Reinforcement Learning during Rapid Aiming Movement in Extended Reality and Human-Robot Interaction. J. Hum.-Robot Interact. ACM Transactions in Human Robot Interaction. https://doi.org/10.1145/3736423
 
 [2] Mukund Mitra, Preetam Pati, Vinay Krishna Sharma, Subin Raj, Partha Pratim Chakrabarti, and Pradipta Biswas. 2023. Comparison of Target Prediction in VR and MR using Inverse Reinforcement Learning. In Companion Proceedings of the 28th International Conference on Intelligent User Interfaces (IUI '23 Companion). ACM, New York, NY, USA, 55–58.
 https://doi.org/10.1145/3581754.3584130
