@@ -12,14 +12,14 @@ This repository provides a modular implementation of Sampling-based Maximum Entr
 
 ## Quick Start
 
-```bash
+``bash
 python demo.py
 
 ## Dataset Access
 If you'd like to access the hand trajectory dataset used for training and evaluation in this project, please email:
 mukundmitra@iisc.ac.in (Mukund Mitra)
 
-Citation
+## Citation
 If you use this code or build upon this work, please cite:
 
 [1] Mukund Mitra, Gyanig Kumar, Partha Pratim Chakrabarti, and Pradipta Biswas. 2025. Investigating Inverse Reinforcement Learning during Rapid Aiming Movement in Extended Reality and Human-Robot Interaction. J. Hum.-Robot Interact. Just Accepted (May 2025).
